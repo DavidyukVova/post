@@ -1,7 +1,7 @@
 <? 
 // ----------------------------конфигурация-------------------------- // 
  
-$adminemail="vovkadavidyukgmail.com";  // e-mail админа 
+$adminemail="vovkadavidyuk@gmail.com";  // e-mail админа
  
  
 $date=date("d.m.y"); // число.месяц.год 
